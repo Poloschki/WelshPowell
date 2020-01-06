@@ -66,7 +66,6 @@ public:
                 this->ajoutSommet(caractere);
             if(voisin)
             {
-            //quelques choses
             }
         }
         fin.close();
